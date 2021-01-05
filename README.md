@@ -25,6 +25,7 @@
 
 [![Twitter follow @sushil_dangi5](https://img.shields.io/twitter/follow/sushil_dangi5?style=social)](https://twitter.com/sushil_dangi5) &nbsp;
 [![Linkedin follow @sushil-dangi](https://img.shields.io/badge/sushil-dangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushil-dangi/)](https://www.linkedin.com/in/sushil-dangi/) &nbsp;
+<br/>
 **Languages and Tools:**  
 
 <a href="https://github.com/sushildangi">
