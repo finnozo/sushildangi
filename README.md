@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushildangi&label=Profile%20views&color=0e75b6&style=flat" alt="sushildangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushildangi" alt="sushildangi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushildangi&theme=onedark" alt="sushildangi" /></a> </p>
 
 
 <a href="https://twitter.com/sushil_dangi5">
