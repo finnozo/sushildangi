@@ -42,7 +42,7 @@
 <br>
   <br>
   
-[![Sushil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushildangi&theme=tokyonight)](https://git.io/praveenscience)
+[![Sushil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sushildangi&theme=react-dark)](https://git.io/praveenscience)
 
 | ![Sushil's github stats](https://github-readme-stats.vercel.app/api?username=sushildangi&show_icons=true&theme=tokyonight) | ![Sushil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushildangi&theme=tokyonight) |
 | --- | --- |
