@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sushil_dangi5" target="blank"><img src="https://img.shields.io/twitter/follow/sushil_dangi5?logo=twitter&style=for-the-badge" alt="sushil_dangi5" /></a> </p>
 
-- 🔭 I’m currently working on Snapooh Media [Truevisual.io](http://truevisual.io/)
+- 🔭 I’m currently working on Technoboost [Technoboost.in](http://technoboost.in/)
 
 - 🌱 I’m currently learning **Micro Service and Docker**
 
