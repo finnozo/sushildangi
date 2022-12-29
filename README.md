@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Sushil%20Dangi&fontSize=90)
+
 <h1 align="center">Hi 👋, I'm Sushil Dangi</h1>
 <h3 align="center">I am a Post Graduate Computer Science (MCA) at the National Institute of Technology Raipur (NIT Raipur).</h3>
 
