@@ -17,15 +17,15 @@
 
 - 🤝 I’m looking for help with **Micro Service and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [sushildangi.github.io](https://sushildangi.github.io)
+- 👨‍💻 All of my projects are available at [sushildangi.online](https://sushildangi.online/)
 
-- 📝 I regularly write articles on [sushildangi.github.io](https://sushildangi.github.io)
+- 📝 I regularly write articles on [sushildangi.online](https://sushildangi.online/)
 
 - 💬 Ask me about **Java, Spring, Spring Boot, Python, SQL**
 
 - 📫 How to reach me **dangi.sushil5@gmail.com**
 
-- 📄 Know about my experiences [sushildangi.github.io](https://sushildangi.github.io)
+- 📄 Know about my experiences [sushildangi.online](https://sushildangi.online/)
 
 - ⚡ Fun fact **I think I am funny**
 
