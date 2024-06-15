@@ -26,9 +26,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Sushil+Dangi+online">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Sushil+Dangi">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>India</b> 」
+    「 I am a full stack web appplication developer from <b>Bangalore, India</b> 」
     <br>
     <br>
   </samp>
